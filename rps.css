@@ -1,0 +1,19 @@
+.flex-box-rps img:hover
+  {
+    box-shadow:0px 10px 50px rgb(38, 167, 199);
+  }
+  .container-3
+  {
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+    text-align: center;
+  }
+  .flex-box-rps
+  {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-around;
+  }
